@@ -9,4 +9,4 @@ nav_order: 2
      
 Shangyu's email is [shangyu@iastate.edu](mailto:shangyu@iastate.edu). Don't hesitate to contact!    
      
-![image](https://github.com/user-attachments/assets/9cbbfc29-3196-49ad-9d07-3a8c0acbeec0)  
+![Shangyu's Example](https://github.com/user-attachments/assets/095a5f97-709d-425f-b391-9de1824b1788)
