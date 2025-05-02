@@ -1,5 +1,5 @@
 ---
-title: Home
+title: 00. Homepage
 layout: home
 ---
 
