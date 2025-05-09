@@ -8,7 +8,7 @@ nav_order: 2
 [Major Assignment 3](https://canvas.iastate.edu/courses/118016/modules/items/7001804) is a preview of the Final Exam. We will work on this assignment together in class on May 8, but you should try to do it yourself before that.
 - Diagram at least five (5) of the following sentences.
 
-  1. Everyone in the room was putting on their heavy winter coats.
+1. Everyone in the room was putting on their heavy winter coats.
      
      ```
                                            S
@@ -25,7 +25,7 @@ nav_order: 2
                          the    room
      ```
 
-  2. Two types of stereotypes have been identified in recent literature.
+2. Two types of stereotypes have been identified in recent literature.
      
      ```
                                                S
@@ -43,7 +43,7 @@ nav_order: 2
                                     stereotypes
      ```
 
-  3. You could see they were cooking up something.
+3. You could see they were cooking up something.
      
      ```
                             S
@@ -57,7 +57,7 @@ nav_order: 2
       You                  could      see           (that)      they   were    cooking up    something
      ```
 
-  4. Ultimately, that is the dilemma that we all grapple with every day.
+4. Ultimately, that is the dilemma that we all grapple with every day.
      
      ```
                                       S
@@ -72,7 +72,7 @@ nav_order: 2
                                that              is                                that      we all grapple with every day
       ```
 
-  5. I wanted to work with young people to make a difference in their lives.
+5. I wanted to work with young people to make a difference in their lives.
      
      ```
                                             S
@@ -85,7 +85,7 @@ nav_order: 2
               I                  wanted      to work with young people     to make a difference in their lives
      ```
 
-  6. She's been writing about issues facing girls for two decades.
+6. She's been writing about issues facing girls for two decades.
      
      ```
                                          S
@@ -103,7 +103,7 @@ nav_order: 2
                                                                                                                  decades
      ```
 
-  7. I don't know who I am anymore.
+7. I don't know who I am anymore.
       
      ```
                               S
@@ -118,7 +118,7 @@ nav_order: 2
                                                          ↑_____________↓
      ```
 
-  8. My mind wanders because I'm distracted.
+8. My mind wanders because I'm distracted.
  
      ```
                                      S
@@ -133,7 +133,7 @@ nav_order: 2
      
      ```
 
-  9. I asked her yesterday if she would come to the party.
+9. I asked her yesterday if she would come to the party.
  
      ```
                                         S
