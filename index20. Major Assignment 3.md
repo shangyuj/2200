@@ -104,6 +104,20 @@ nav_order: 2
      ```
 
   10. I don't know who I am anymore.
-  11. My mind wanders because I'm distracted.
-  12. I asked her yesterday if she would come to the party.
-  13. I just want to be by myself right now. 
+      
+      ```
+                              S
+         _____________________|_________________________
+         |                                     LVP: pred
+      NP: Subj                     ______________|__________________
+         |                      VP: pres                 fin sub cls: DO
+         |                    ______|______              ______|________
+        pro               aux     neg    MV: MT         sub            S
+         |                 |       |       |             |             |
+         I                 do     n’t     know          who       I am anymore
+                                                         ↑_____________|
+      ```
+
+  12. My mind wanders because I'm distracted.
+  13. I asked her yesterday if she would come to the party.
+  14. I just want to be by myself right now. 
