@@ -103,9 +103,9 @@ nav_order: 2
                                                                                                                  decades
      ```
 
-  10. I don't know who I am anymore.
+  7. I don't know who I am anymore.
       
-      ```
+     ```
                               S
          _____________________|_________________________
          |                                     LVP: pred
@@ -115,9 +115,49 @@ nav_order: 2
         pro               aux     neg    MV: MT         sub            S
          |                 |       |       |             |             |
          I                 do     n’t     know          who       I am anymore
-                                                         ↑_____________|
-      ```
+                                                         ↑_____________↓
+     ```
 
-  12. My mind wanders because I'm distracted.
-  13. I asked her yesterday if she would come to the party.
-  14. I just want to be by myself right now. 
+  8. My mind wanders because I'm distracted.
+ 
+     ```
+                                     S
+                _____________________|__________________
+               |                                  LVP: pred
+           NP: Subj                   _______________|_______________
+          ___|____                  VP: pres               fin sub cls: Advl
+         det     N                     |                    ______|________
+          |      |                   MV: IT                 sub           S
+         My    mind                    |                     |            |
+                                    wanders               because     I’m distracted
+     
+     ```
+
+  9. I asked her yesterday if she would come to the party.
+ 
+     ```
+                                        S
+                  ______________________|______________________________
+                 |                                               LVP: pred
+             NP: Subj                    __________________________|_________________________
+                 |                      VP: past       NP: IO     AdvP: Advl         fin sub cls: DO
+                pro                        |              |            |              _____|_________
+                 |                      MV: DT           pro          adv             sub            S
+                 I                         |              |            |               |             |
+                                         asked           her        yesterday         if      she would come to the party
+    ```
+
+  10. I just want to be by myself right now.
+
+    ```
+                                  S
+            ______________________|___________________
+           |                                      LVP: pred
+        NP: Subj             ________________________|___________________
+           |               VP: pres            nf sub cls: DO         AdvP
+          pro             ____|______                 |                 |
+           |             adv     MV: MT        to be by myself         adv
+           I              |        |                                    |
+                         just     want                              right now
+    ```
+
