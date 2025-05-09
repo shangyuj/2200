@@ -7,6 +7,7 @@ nav_order: 2
 ## 20. Major Assignment 3
 [Major Assignment 3](https://canvas.iastate.edu/courses/118016/modules/items/7001804) is a preview of the Final Exam. We will work on this assignment together in class on May 8, but you should try to do it yourself before that.
 - Diagram at least five (5) of the following sentences.
+
   1. Everyone in the room was putting on their heavy winter coats.
      
      ```
@@ -71,7 +72,19 @@ nav_order: 2
                                that              is                                that      we all grapple with every day
       ```
 
-  8. I wanted to work with young people to make a difference in their lives.
+  5. I wanted to work with young people to make a difference in their lives.
+     
+     ```
+                                            S
+                ____________________________|______________________________
+               |                                                           |
+           NP: Subj             VP: past                              LVP: pred
+              |                    |                    ___________________|________________
+             pro                 MV: MT          nf subj cls: DO                 nf subj cls: Advl
+              |                    |                    |                                 |
+              I                  wanted      to work with young people     to make a difference in their lives
+     ```
+
   9. She's been writing about issues facing girls for two decades.
   10. I don't know who I am anymore.
   11. My mind wanders because I'm distracted.
