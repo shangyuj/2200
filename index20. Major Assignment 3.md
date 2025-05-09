@@ -85,7 +85,22 @@ nav_order: 2
               I                  wanted      to work with young people     to make a difference in their lives
      ```
 
-  9. She's been writing about issues facing girls for two decades.
+  6. She's been writing about issues facing girls for two decades.
+     
+     ```
+                                         S
+                _________________________|_____________________________
+               |                                              LVP: pred
+           NP: Subj               ________________________________|________________________
+              |                  VP: pres perf prog          PP: Advl                             PP: Advl
+              |                   ______|__________          ____|________                        ____|________
+             pro                 aux   aux    MV: IT        prep    NP: ObjP                    prep     NP: ObjP
+              |                   |     |        |            |     ____|______________           |       ___|____
+             She                 has   been   writing       about   N       nf sub cls: PNM      for     det     N
+                                                                    |               |                     |      |
+                                                                  issues       facing girls              two  decades
+     ```
+
   10. I don't know who I am anymore.
   11. My mind wanders because I'm distracted.
   12. I asked her yesterday if she would come to the party.
