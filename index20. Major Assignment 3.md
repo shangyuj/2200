@@ -91,14 +91,16 @@ nav_order: 2
                                          S
                 _________________________|_____________________________
                |                                              LVP: pred
-           NP: Subj               ________________________________|________________________
+           NP: Subj               ________________________________|______________________________________
               |                  VP: pres perf prog          PP: Advl                             PP: Advl
               |                   ______|__________          ____|________                        ____|________
              pro                 aux   aux    MV: IT        prep    NP: ObjP                    prep     NP: ObjP
-              |                   |     |        |            |     ____|______________           |       ___|____
-             She                 has   been   writing       about   N       nf sub cls: PNM      for     det     N
-                                                                    |               |                     |      |
-                                                                  issues       facing girls              two  decades
+              |                   |     |        |            |     ____|______________           |       ___|_______
+             She                 has   been   writing       about   N       nf sub cls: PNM      for     det     NP:ObjP
+                                                                    |               |                     |         |
+                                                                  issues       facing girls              two        N
+                                                                                                                    |
+                                                                                                                 decades
      ```
 
   10. I don't know who I am anymore.
