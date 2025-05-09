@@ -16,8 +16,8 @@ nav_order: 2
                     |                                            LVP: pred
                 NP: Subj                               ____________|________________
          __________|__________                        VP: past prog              NP: DO
-        pro      PP: PNM                              ____|______          _________|______________
-        |         |                                  aux     MV: MT       det     adj     adj     N-head
+        pro      PP: PNM                              ____|______          _________|________________
+        |         |                                  aux     MV: MT       det     adj      N      N:head
      everyone    prep     NP: ObjP                    |       |            |       |       |        |
                   |      ____|_____                  was   putting on    their   heavy   winter   coats
                  in      det     N
@@ -141,10 +141,10 @@ nav_order: 2
                  |                                               LVP: pred
              NP: Subj                    __________________________|_________________________
                  |                      VP: past       NP: IO     AdvP: Advl         fin sub cls: DO
-                pro                        |              |            |              _____|_________
+                pro                        |              |            |               _____|_________
                  |                      MV: DT           pro          adv             sub            S
                  I                         |              |            |               |             |
-                                         asked           her        yesterday         if      she would come to the party
+                                         asked           her        yesterday          if     she would come to the party
     ```
 
 10. I just want to be by myself right now.
