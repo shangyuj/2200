@@ -147,7 +147,7 @@ nav_order: 2
                                          asked           her        yesterday         if      she would come to the party
     ```
 
-  10. I just want to be by myself right now.
+10. I just want to be by myself right now.
 
     ```
                                   S
