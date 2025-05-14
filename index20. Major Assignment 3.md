@@ -11,18 +11,18 @@ nav_order: 2
 1. Everyone in the room was putting on their heavy winter coats.
      
      ```
-                                           S
-                     _____________________|_______________________
-                    |                                            LVP: pred
+                                         S
+                    _____________________|_________________________
+                   |                                           LVP: pred
                 NP: Subj                               ____________|________________
          __________|__________                        VP: past prog              NP: DO
-        pro      PP: PNM                              ____|______          _________|________________
-        |         |                                  aux     MV: MT       det     adj      N      N:head
-     everyone    prep     NP: ObjP                    |       |            |       |       |        |
-                  |      ____|_____                  was   putting on    their   heavy   winter   coats
-                 in      det     N
-                          |      |
-                         the    room
+        pro             PP: PNM                      ____|______          _________|________________
+        |         ________|________                 aux     MV: MT       det     adj      N      N:head
+     Everyone    prep         NP: ObjP               |       |            |       |       |        |
+                  |          ____|_____             was   putting on    their   heavy   winter   coats
+                 in          det     N
+                              |      |
+                             the    room
      ```
 
 2. Two types of stereotypes have been identified in recent literature.
